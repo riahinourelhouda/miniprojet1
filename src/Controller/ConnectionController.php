@@ -14,6 +14,7 @@ class ConnectionController extends AbstractController
     public function index(): Response
     {
        /**   try {
+        * kiugkuyu
            * $em =$this->getDoctrine()->getManager();
             *$em->getConnetion()->connect();
             *$connected = $em->getConnection()
